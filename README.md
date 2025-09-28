@@ -47,6 +47,7 @@ npm run dev
 Open in browser
 Visit http://localhost:5173
 
+
 ## AI Support Explanation
 
 This app can be enhanced with AI-powered features such as:
